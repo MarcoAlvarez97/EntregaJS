@@ -1,0 +1,10 @@
+* {
+  background-color: black;
+}
+
+h1 {
+  font-size: 5rem;
+  color: rgb(230, 215, 5);
+  text-align: center;
+  text-decoration: underline;
+}
